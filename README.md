@@ -29,9 +29,7 @@ Framework-agnostic TypeScript, zero runtime dependencies.
 
 ## Built by LangOptima
 
-We build the data and AI systems that help teams make faster, better-grounded decisions. This calculator is one of a set of [free tools](https://tools.langoptima.com) we've open-sourced.
-
-If you're thinking about growth, not just runway: [langoptima.com](https://www.langoptima.com) · book a call at [calendly.com/langoptima](https://calendly.com/langoptima).
+LangOptima builds AI-ready data and knowledge-graph systems for enterprises. This is one of our open-source [free tools](https://tools.langoptima.com) — [langoptima.com](https://www.langoptima.com).
 
 ## License
 
