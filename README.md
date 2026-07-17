@@ -29,7 +29,7 @@ Framework-agnostic TypeScript, zero runtime dependencies.
 
 ## Built by LangOptima
 
-LangOptima builds AI-ready data and knowledge-graph systems for enterprises. This is one of our open-source [free tools](https://tools.langoptima.com) — [langoptima.com](https://www.langoptima.com).
+LangOptima offers [growth services](https://www.langoptima.com/growth-offers/diagnostic) for B2B companies — diagnostics, growth sprints, and fractional growth leadership across the full growth surface, from demand to referral. This calculator is one of our open-source [free tools](https://tools.langoptima.com) — [langoptima.com](https://www.langoptima.com).
 
 ## License
 
